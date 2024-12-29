@@ -6,7 +6,7 @@
 
 ```lua
 {
-    'ctrl-nvim/httpclient',
-	dependencies = { "nvim-lua/plenary.nvim" },
+    'ctrl-nvim/http_client',
+    dependencies = { "nvim-lua/plenary.nvim" },
 }
 ```
